@@ -1,9 +1,9 @@
 {
-  "name": "Silent WolfBot",
+  "name": "Amar mD",
   "description": "Professional WhatsApp Bot with auto-session authentication",
   "logo": "https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md/main/src/logo.jpg",
-  "keywords": ["whatsapp", "bot", "wolfbot", "baileys", "session"],
-  "repository": "https://github.com/7silent-wolf/silentwolf.git",
+  "keywords": ["whatsapp", "mD", "amarmD", "baileys", "session"],
+  "repository": "https://https://github.com/wbmmi-6",
   "addons": [
     {
       "plan": "heroku-postgresql"
